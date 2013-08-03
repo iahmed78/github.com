@@ -1,2 +1,6 @@
 github.com
 ==========
+
+This is a basic java project added to git repository...
+more coming up....
+
